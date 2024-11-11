@@ -6,7 +6,7 @@ EmpowerAI is an AI-powered chatbot that uses Google's Gemini-Pro to tackle gende
 
 The chatbot is powered by natural language processing and machine learning to provide intelligent responses on various issues related to gender equality and social good.
 
-![empower5](https://github.com/user-attachments/assets/64e5b01a-6282-47ce-bfb3-84f2beec4b6e)
+![Empowerai2](https://github.com/user-attachments/assets/848a6a77-d0ee-4fec-8dd3-64368fdce16c)
 
 ## Features
 
@@ -15,7 +15,7 @@ The chatbot is powered by natural language processing and machine learning to pr
 - **Healthcare Access**: Ensures access to healthcare resources and information for women and girls globally.
 - **Economic Empowerment**: Supports women and girls in achieving financial independence and leadership opportunities.
 
-![Empowerai2](https://github.com/user-attachments/assets/7d7d84bb-6ab9-4fa1-b90c-57fb0a9278ee)
+![Empowerai3](https://github.com/user-attachments/assets/f0e1cf5f-2889-487b-91b8-05af69caf156)
 
 ## Social Media Links
 
@@ -26,7 +26,7 @@ You can connect with the project creator on various social media platforms:
 - [Twitter](https://twitter.com/RoshniK29147303) 
 - [Portfolio](https://yourportfolio.com)
 
-![Empowerai3](https://github.com/user-attachments/assets/ab4ae0b2-3ae2-4f13-97db-b1cf522d7ab6)
+![empowerai4](https://github.com/user-attachments/assets/b0c52e31-f056-42e5-a097-7e2479cd10b0)
 
 ## Setup
 
@@ -78,4 +78,4 @@ Feel free to fork this project and submit pull requests for improvements. Whethe
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![empowerai4](https://github.com/user-attachments/assets/c25e97a2-9d6a-4dc9-9955-6b93450db189)
+![empower5](https://github.com/user-attachments/assets/84ac2fb7-036c-4205-9a2f-8e8afb38a623)
